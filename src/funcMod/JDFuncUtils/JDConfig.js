@@ -4,9 +4,9 @@ module.exports = {
         // 青龙账号名称
         username :"",
         // 青龙密码
-        password:"laoxin0318",
+        password:"",
         // 青龙的服务器ip
-        host:"112.126.71.120",
+        host:"",
         // 青龙的端口
         port:"5700"
     },
