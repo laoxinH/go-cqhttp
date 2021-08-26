@@ -5,6 +5,6 @@
 机器人配置文件src/config.js（启动前手动配置）
 JD功能配置文件src/funcMod/JDFuncUtils（使用JD功能前需要配置）
 ## 启动说明
-  cd src
-  pm2 App.js
-  重启参考pm2教程
+    cd src
+    pm2 App.js
+    重启参考pm2教程
